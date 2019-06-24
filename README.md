@@ -9,7 +9,7 @@ A Penetration Testing Framework, you will have every script that a hacker needs
 <pre>
 <h2>
 ╔═════════════════════════════════════════════════════╗
-║                                                     ║
+║          0xfares - f.alarabi@darkcoders.com         ║
 ║  ╔═══════════════════════════════════════════════╗  ║
 ║  ║ ███████  ██    ██   ██████    ██████ ████████ ║  ║
 ║  ║ ██       ██    ██  ██    ██  ██         ██    ║  ║
