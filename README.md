@@ -6,11 +6,18 @@
 A Penetration Testing Framework, you will have every script that a hacker needs
 
 ## Fsociety Contains All Tools Used In Mr Robot Series
-
-![alt tag](https://i.ibb.co/2YyXBfw/Screen-Shot-2019-06-24-at-7-58-48-PM.png)
 <pre>
-  d     f
-
+╔═════════════════════════════════════════════════════╗
+║                                                     ║
+║  ╔═══════════════════════════════════════════════╗  ║
+║  ║ ███████  ██    ██   ██████    ██████ ████████ ║  ║
+║  ║ ██       ██    ██  ██    ██  ██         ██    ║  ║
+║  ║ ███████  ████████  ████████  ██         ██    ║  ║
+║  ║ ██       ██    ██  ██    ██  ██         ██    ║  ║
+║  ║ ███████  ██    ██  ██    ██   ██████    ██    ║  ║
+║  ╚═══════════════════════════════════════════════╝  ║
+║ Endpoint Hardening & Configuration Assessment Tool  ║
+╚═════════════════════════════════════════════════════╝
 </pre>
 
 ## Menu
