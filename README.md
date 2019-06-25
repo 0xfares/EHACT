@@ -7,8 +7,6 @@ This tool has been created in order to improve the security level of windows pla
 
 ## Fsociety Contains All Tools Used In Mr Robot Series
 <pre>
-<h2>
-
 ╔════════════════════════════════════════════════════╗
 ║          0xfares - f.alarabi@darkcoders.com        ║
 ║     ╔═════════════════════════════════════════╗    ║
@@ -20,9 +18,6 @@ This tool has been created in order to improve the security level of windows pla
 ║     ╚═════════════════════════════════════════╝    ║
 ║ Endpoint Hardening & Assessment Configuration Tool ║
 ╚════════════════════════════════════════════════════╝
-
-
-</h2>
 </pre>
 
 ## Menu
