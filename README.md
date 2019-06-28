@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Manisso/fsociety/blob/master/LICENSE) ![OS](https://img.shields.io/badge/Tested%20On-%20Windows%20-yellowgreen.svg?style=flat-square) [![Powershell 5](https://img.shields.io/badge/Python-3-green.svg?style=flat-square)](https://github.com/Manisso/fsociety/tree/python3)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Manisso/fsociety/blob/master/LICENSE) ![OS](https://img.shields.io/badge/Tested%20On-%20Windows%20-yellowgreen.svg?style=flat-square) [![Powershell 5](https://img.shields.io/badge/Powershell-5-green.svg)](https://github.com/Manisso/fsociety/tree/python3)
 ![Docker](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?style=flat-square)
 
 # Endpoint Hardening & Assessment Configuration Tool
